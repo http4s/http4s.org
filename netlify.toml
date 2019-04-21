@@ -1,6 +1,6 @@
 # example netlify.toml
 [build]
-  command = "hugo build"
+  command = "hugo"
   functions = "functions"
   publish = "public"
 
