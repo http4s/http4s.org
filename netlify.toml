@@ -6,7 +6,7 @@
 
   [[redirects]]
     from = "/http4s-jdk-http-client/*"
-    to = "https://http4s-jdk-http-client.netlify.com/"
+    to = "https://http4s-jdk-http-client.netlify.com/:splat"
     status = 200
   
   ## (optional) Settings for Netlify Dev
